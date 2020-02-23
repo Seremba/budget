@@ -1,0 +1,16 @@
+{
+  "name": "budget_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "deploy": "gh-pages -d budget_app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://Seremba.github.io/budget",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
